@@ -13,8 +13,8 @@ spec:
       app: simple-java-app
  spec:
    containers:
-   - name: simple-java-app
-   image: lavanya040206/simple-java-app:latest
+    - name: simple-java-app
+    image: lavanya040206/simple-java-app:latest
 ---
 apiVersion: v1
 kind: Service
