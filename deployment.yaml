@@ -19,7 +19,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
- name: simple-java-service
+ name: simple-java-app-service
 spec:
  type: NodePort
  selector:
